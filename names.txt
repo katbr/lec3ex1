@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Shanmeng Liu
 =======
 Shuyao Zhu
+=======
+
+>>>>>>> parent of a5960a6... commit-message
